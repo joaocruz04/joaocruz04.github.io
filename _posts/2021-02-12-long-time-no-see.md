@@ -2,11 +2,16 @@
 title: Long time, no see
 tags: # No tags
 show_author_profile: true
+cover: /assets/images/2021-02-12-long-time-no-see/cover_typewritter_full.jpg
+article_header:
+  type: cover
+  image:
+    src: /assets/images/2021-02-12-long-time-no-see/cover_typewritter.jpg
 ---
 
 LightningBits is back, after a few years without writing a single thing except meeting notes, and grocery shopping lists. Not because I had no time, but because I'm really like, super lazy. And now, after all these years, having a more demanding job and increased family by two toddlers, I decided to use my now-imaginary free time to write about the stuff I find. Maybe it's the current pandemic, maybe it's the nice home office setup I have. Maybe I'm just hiding from my kids.
 
-<blockquote class="fancybq">
+<blockquote>
 What can go wrong, right?
 </blockquote>
 
