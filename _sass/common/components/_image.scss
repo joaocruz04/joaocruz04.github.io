@@ -17,3 +17,7 @@
 .image--xs {
   width: map-get($image, width-xs);
 }
+
+.image-round {
+  border-radius: 5%;
+}
