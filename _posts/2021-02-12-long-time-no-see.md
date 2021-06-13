@@ -16,3 +16,6 @@ Not because I had no time, but because I'm really like, super lazy. And now, aft
 <i>What can go wrong, right?</i>
 
 No but seriously, the main goal of restarting this blog is to make me sort my ideas better and hopefully get even better insights of the things I will share with you. Stay tuned. As soon as I stop procrastinating and finding new twists to the layout of this blog, <b>I will definitely write something nice</b>. I promise.
+
+<p class="article__credit">Cover photo by <a href="https://unsplash.com/@retrosupply?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">RetroSupply</a> on <a href="https://unsplash.com/s/photos/writting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+</p>

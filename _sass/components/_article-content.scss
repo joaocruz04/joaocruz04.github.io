@@ -219,3 +219,12 @@
     }
   }
 }
+
+.article__credit {
+  padding-top: 4em;
+  color: $text-color-l;
+  font-size: map-get($base, font-size-sm);
+  img {
+    height: map-get($base, font-size) * 1.6;
+  }
+}
